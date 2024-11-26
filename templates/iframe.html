@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Trang Chủ Trường Đại Học</title>
+    <style>
+      body {
+        background-image: url("https://qnu.edu.vn/Temp/ArticleImage/slider-new-webs--student---2.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        height: 100vh;
+        margin: 0;
+        font-family: Arial, sans-serif;
+      }
+      .header {
+        display: flex;
+        align-items: center;
+        padding: 10px;
+        background-color: #add8e6;
+        flex-wrap: wrap;
+      }
+      .logo {
+        font-size: 30px;
+        color: #ff0000;
+        font-weight: bold;
+        margin-right: 20px;
+        flex: 1;
+      }
+      .logo img {
+        vertical-align: middle;
+        width: 32px;
+        height: 32px;
+      }
+      .menu {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        flex: 2;
+      }
+      .menu-item {
+        background-color: #ff6666;
+        color: white;
+        padding: 10px;
+        text-decoration: none;
+        border-radius: 5px;
+        position: relative;
+        flex: 1;
+        text-align: center;
+      }
+      .menu-item:hover {
+        background-color: #cc0000;
+      }
+      .dropdown-content {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        background-color: white;
+        border: 1px solid #ff6666;
+        z-index: 1;
+        border-radius: 5px;
+        min-width: 200px;
+      }
+      .dropdown-content a {
+        display: block;
+        color: #333;
+        padding: 10px;
+        text-decoration: none;
+      }
+      .dropdown-content a:hover {
+        background-color: #f1f1f1;
+      }
+      .menu-item:hover .dropdown-content {
+        display: block;
+      }
+      .search-box {
+        margin-left: auto;
+        display: flex;
+        align-items: center;
+        flex: 1;
+      }
+      .search-box input[type="text"] {
+        padding: 5px;
+        border-radius: 15px;
+        border: 1px solid #ddd;
+        flex: 1;
+      }
+      .language-select {
+        display: flex;
+        gap: 5px;
+        margin-left: 10px;
+      }
+      .language-select button {
+        padding: 5px 10px;
+        border: none;
+        border-radius: 5px;
+        background-color: #ff6666;
+        color: white;
+        cursor: pointer;
+      }
+      .chat-box {
+        position: fixed;
+        bottom: 10%;
+        right: 5%;
+        width: 90%;
+        max-width: 350px;
+        height: 430px;
+        display: none;
+      }
+      .toggle-button {
+        position: fixed;
+        bottom: 5%;
+        right: 5%;
+        padding: 10px;
+        background-color: #ff6666;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+      @media (max-width: 768px) {
+        .header {
+          flex-direction: column;
+          align-items: flex-start;
+        }
+        .menu {
+          flex-direction: column;
+          width: 100%;
+        }
+        .menu-item {
+          flex: 1 1 100%;
+          text-align: left;
+        }
+        .search-box {
+          width: 100%;
+          margin-top: 10px;
+        }
+        .language-select {
+          margin-left: 0;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="header">
+      <div class="logo">TRƯỜNG ĐẠI HỌC QUY NHƠN</div>
+      <div class="menu">
+        <a href="#" class="menu-item">Giới thiệu</a>
+        <a href="#" class="menu-item">Tuyển sinh</a>
+        <a href="#" class="menu-item">Hoạt động</a>
+        <div class="menu-item">
+          Sinh Viên
+          <div class="dropdown-content">
+            <a href="#">Nội quy sinh viên</a>
+            <a href="#">Chính sách học phí</a>
+            <a href="#">Học bổng</a>
+            <a href="#">Đăng nhập</a>
+          </div>
+        </div>
+        <div class="menu-item">
+          Nhân viên
+          <div class="dropdown-content">
+            <a href="#">Giáo viên</a>
+            <a href="#">Nhân viên khác</a>
+          </div>
+        </div>
+        <div class="menu-item">
+          Đào tạo
+          <div class="dropdown-content">
+            <a href="#">Đại học chính quy</a>
+            <a href="#">Sau đại học</a>
+            <a href="#">Đăng ký tín chỉ</a>
+            <a href="#">Bằng cấp, chứng chỉ</a>
+          </div>
+        </div>
+        <div class="menu-item">
+          Hợp tác
+          <div class="dropdown-content">
+            <a href="#">Các chương trình hỗ trợ sinh viên</a>
+            <a href="#">Học bổng</a>
+            <a href="#">Tuyển dụng</a>
+          </div>
+        </div>
+        <div class="menu-item">
+          Thư viện
+          <div class="dropdown-content">
+            <a href="#">Tài liệu học</a>
+            <a href="#">Truyện</a>
+            <a href="#">Nghiên cứu</a>
+          </div>
+        </div>
+        <a href="#" class="menu-item">Liên hệ</a>
+      </div>
+
+      <div class="search-box">
+        <input type="text" placeholder="search" />
+        <div class="language-select">
+          <button>Tiếng Việt</button>
+          <button>English</button>
+        </div>
+      </div>
+    </div>
+
+    <button class="toggle-button" onclick="toggleChat()">CHATBOT</button>
+
+<div class="chat-box" id="chat-box" style="display:none;">
+  <iframe
+    allow="microphone;"
+    width="100%"
+    height="100%"
+    src="https://console.dialogflow.com/api-client/demo/embedded/ad141b01-6789-43b8-8abc-c6634602571a"
+  >
+  </iframe>
+</div>
+
+<script>
+  // Biến để lưu trữ thời gian mở và đóng chatbox
+  let startTime, endTime;
+
+  // Hàm để đo hiệu suất khi mở chatbox
+  function toggleChat() {
+    const chatBox = document.getElementById("chat-box");
+
+    // Kiểm tra trạng thái hiện tại của chatbox và thay đổi hiển thị
+    const currentDisplay = window.getComputedStyle(chatBox).display;
+
+    if (currentDisplay === "none" || currentDisplay === "") {
+      startTime = performance.now();  // Ghi nhận thời gian mở chatbox
+      chatBox.style.display = "block";
+      sendActionToServer('open');  // Gửi hành động 'open' tới server Flask
+    } else {
+      endTime = performance.now();  // Ghi nhận thời gian đóng chatbox
+      chatBox.style.display = "none";
+      sendActionToServer('close');  // Gửi hành động 'close' tới server Flask
+      logPerformance();  // Ghi log thời gian khi đóng chatbox
+    }
+  }
+
+  // Hàm gửi yêu cầu POST tới Flask server
+  async function sendActionToServer(action) {
+    try {
+      const response = await fetch('/toggle-chat', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ action: action })
+      });
+
+      // Kiểm tra nếu yêu cầu thành công
+      if (!response.ok) {
+        throw new Error(`HTTP error! Status: ${response.status}`);
+      }
+
+      // Giả sử server trả về JSON
+      const data = await response.json();
+      console.log('Server response:', data);
+    } catch (error) {
+      console.error('Error:', error);
+    }
+  }
+
+  // Hàm để log thời gian thực thi khi đóng chatbox
+  function logPerformance() {
+    if (startTime && endTime) {
+      const executionTime = endTime - startTime;  // Tính thời gian mở chatbox
+      console.log(`Chatbot opened and closed in ${executionTime.toFixed(4)} milliseconds.`);
+      sendPerformanceData(executionTime);  // Gửi dữ liệu hiệu suất tới server
+    }
+  }
+
+  // Hàm để gửi dữ liệu hiệu suất về server
+  async function sendPerformanceData(executionTime) {
+    try {
+      const response = await fetch('/log-performance', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ executionTime: executionTime })
+      });
+
+      if (!response.ok) {
+        throw new Error(`HTTP error! Status: ${response.status}`);
+      }
+
+      const data = await response.json();
+      console.log('Performance data sent to server:', data);
+    } catch (error) {
+      console.error('Error:', error);
+    }
+  }
+</script>
+
+
+  </body>
+</html>

@@ -1,0 +1,544 @@
+2024-11-14 01:59:53,609 - WARNING -  * Debugger is active!
+2024-11-14 01:59:53,613 - INFO -  * Debugger PIN: 468-520-063
+2024-11-14 02:00:18,686 - INFO -  * Detected change in 'D:\\chatbot\\web.py', reloading
+2024-11-14 02:00:19,052 - WARNING -  * Debugger is active!
+2024-11-14 02:00:19,063 - INFO -  * Debugger PIN: 468-520-063
+2024-11-14 02:00:32,156 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-14 02:00:32,157 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-14 02:00:32,158 - INFO -  * Restarting with stat
+2024-11-14 02:00:32,458 - WARNING -  * Debugger is active!
+2024-11-14 02:00:32,463 - INFO -  * Debugger PIN: 468-520-063
+2024-11-14 02:02:33,599 - INFO - Chatbot action: close
+2024-11-14 02:02:33,600 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:33] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:34,341 - INFO - Chatbot action: open
+2024-11-14 02:02:34,342 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:34] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:35,133 - INFO - Chatbot action: close
+2024-11-14 02:02:35,133 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:35] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:35,763 - INFO - Chatbot action: open
+2024-11-14 02:02:35,764 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:35] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:35,933 - INFO - Chatbot action: close
+2024-11-14 02:02:35,934 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:35] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:36,118 - INFO - Chatbot action: open
+2024-11-14 02:02:36,121 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:36] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:36,285 - INFO - Chatbot action: close
+2024-11-14 02:02:36,288 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:36] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:36,449 - INFO - Chatbot action: open
+2024-11-14 02:02:36,450 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:36] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:36,612 - INFO - Chatbot action: close
+2024-11-14 02:02:36,612 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:36] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:36,796 - INFO - Chatbot action: open
+2024-11-14 02:02:36,797 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:36] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:36,993 - INFO - Chatbot action: close
+2024-11-14 02:02:36,994 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:36] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:37,185 - INFO - Chatbot action: open
+2024-11-14 02:02:37,185 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:37] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:37,354 - INFO - Chatbot action: close
+2024-11-14 02:02:37,355 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:37] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:37,516 - INFO - Chatbot action: open
+2024-11-14 02:02:37,516 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:37] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:37,672 - INFO - Chatbot action: close
+2024-11-14 02:02:37,673 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:37] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:37,903 - INFO - Chatbot action: open
+2024-11-14 02:02:37,903 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:37] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:38,295 - INFO - Chatbot action: close
+2024-11-14 02:02:38,295 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:38] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:38,492 - INFO - Chatbot action: open
+2024-11-14 02:02:38,493 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:38] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:38,662 - INFO - Chatbot action: close
+2024-11-14 02:02:38,663 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:38] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:38,845 - INFO - Chatbot action: open
+2024-11-14 02:02:38,846 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:38] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:39,043 - INFO - Chatbot action: close
+2024-11-14 02:02:39,044 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:39] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:39,249 - INFO - Chatbot action: open
+2024-11-14 02:02:39,249 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:39] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:39,468 - INFO - Chatbot action: close
+2024-11-14 02:02:39,468 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:39] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:39,652 - INFO - Chatbot action: open
+2024-11-14 02:02:39,653 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:39] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:39,829 - INFO - Chatbot action: close
+2024-11-14 02:02:39,829 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:39] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:40,029 - INFO - Chatbot action: open
+2024-11-14 02:02:40,029 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:40] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:40,182 - INFO - Chatbot action: close
+2024-11-14 02:02:40,182 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:40] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:40,403 - INFO - Chatbot action: open
+2024-11-14 02:02:40,404 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:40] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:40,537 - INFO - Chatbot action: close
+2024-11-14 02:02:40,538 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:40] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:40,762 - INFO - Chatbot action: open
+2024-11-14 02:02:40,762 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:40] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:40,954 - INFO - Chatbot action: close
+2024-11-14 02:02:40,955 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:40] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:41,182 - INFO - Chatbot action: open
+2024-11-14 02:02:41,183 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:41] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:41,342 - INFO - Chatbot action: close
+2024-11-14 02:02:41,342 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:41] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:41,536 - INFO - Chatbot action: open
+2024-11-14 02:02:41,536 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:41] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:41,747 - INFO - Chatbot action: close
+2024-11-14 02:02:41,748 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:41] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:41,928 - INFO - Chatbot action: open
+2024-11-14 02:02:41,929 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:41] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:42,147 - INFO - Chatbot action: close
+2024-11-14 02:02:42,148 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:42] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:42,315 - INFO - Chatbot action: open
+2024-11-14 02:02:42,318 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:42] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:42,529 - INFO - Chatbot action: close
+2024-11-14 02:02:42,529 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:42] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:42,717 - INFO - Chatbot action: open
+2024-11-14 02:02:42,718 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:42] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:42,925 - INFO - Chatbot action: close
+2024-11-14 02:02:42,926 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:42] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:43,081 - INFO - Chatbot action: open
+2024-11-14 02:02:43,081 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:43] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:43,302 - INFO - Chatbot action: close
+2024-11-14 02:02:43,303 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:43] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:43,521 - INFO - Chatbot action: open
+2024-11-14 02:02:43,527 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:43] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:43,704 - INFO - Chatbot action: close
+2024-11-14 02:02:43,704 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:43] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:43,900 - INFO - Chatbot action: open
+2024-11-14 02:02:43,901 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:43] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:44,117 - INFO - Chatbot action: close
+2024-11-14 02:02:44,118 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:44] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:44,299 - INFO - Chatbot action: open
+2024-11-14 02:02:44,299 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:44] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:44,538 - INFO - Chatbot action: close
+2024-11-14 02:02:44,539 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:44] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:44,706 - INFO - Chatbot action: open
+2024-11-14 02:02:44,707 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:44] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:44,898 - INFO - Chatbot action: close
+2024-11-14 02:02:44,899 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:44] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:45,094 - INFO - Chatbot action: open
+2024-11-14 02:02:45,095 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:45] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 02:02:45,305 - INFO - Chatbot action: close
+2024-11-14 02:02:45,305 - INFO - 127.0.0.1 - - [14/Nov/2024 02:02:45] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 03:49:03,696 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-14 03:49:03,697 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-14 03:49:03,698 - INFO -  * Restarting with stat
+2024-11-14 03:49:04,020 - WARNING -  * Debugger is active!
+2024-11-14 03:49:04,024 - INFO -  * Debugger PIN: 468-520-063
+2024-11-14 03:49:17,915 - INFO - 127.0.0.1 - - [14/Nov/2024 03:49:17] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-14 03:49:22,452 - INFO - Chatbot action: open
+2024-11-14 03:49:22,465 - INFO - 127.0.0.1 - - [14/Nov/2024 03:49:22] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 03:49:26,584 - INFO - Chatbot action: close
+2024-11-14 03:49:26,585 - INFO - 127.0.0.1 - - [14/Nov/2024 03:49:26] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 03:49:26,753 - INFO - Chatbot action: open
+2024-11-14 03:49:26,756 - INFO - 127.0.0.1 - - [14/Nov/2024 03:49:26] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 03:49:26,902 - INFO - Chatbot action: close
+2024-11-14 03:49:26,902 - INFO - 127.0.0.1 - - [14/Nov/2024 03:49:26] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 03:49:27,060 - INFO - Chatbot action: open
+2024-11-14 03:49:27,061 - INFO - 127.0.0.1 - - [14/Nov/2024 03:49:27] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 03:49:27,185 - INFO - Chatbot action: close
+2024-11-14 03:49:27,186 - INFO - 127.0.0.1 - - [14/Nov/2024 03:49:27] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 03:49:27,318 - INFO - Chatbot action: open
+2024-11-14 03:49:27,319 - INFO - 127.0.0.1 - - [14/Nov/2024 03:49:27] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 03:49:27,800 - INFO - Chatbot action: close
+2024-11-14 03:49:27,801 - INFO - 127.0.0.1 - - [14/Nov/2024 03:49:27] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 03:49:28,028 - INFO - Chatbot action: open
+2024-11-14 03:49:28,029 - INFO - 127.0.0.1 - - [14/Nov/2024 03:49:28] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 03:51:42,038 - INFO - 127.0.0.1 - - [14/Nov/2024 03:51:42] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-14 03:52:21,672 - INFO - Chatbot action: close
+2024-11-14 03:52:21,672 - INFO - 127.0.0.1 - - [14/Nov/2024 03:52:21] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 03:52:25,369 - INFO - Chatbot action: open
+2024-11-14 03:52:25,369 - INFO - 127.0.0.1 - - [14/Nov/2024 03:52:25] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 03:52:26,304 - INFO - Chatbot action: close
+2024-11-14 03:52:26,305 - INFO - 127.0.0.1 - - [14/Nov/2024 03:52:26] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 05:21:07,215 - INFO - Chatbot action: close
+2024-11-14 05:21:07,219 - INFO - 127.0.0.1 - - [14/Nov/2024 05:21:07] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 05:23:07,705 - INFO - Chatbot action: open
+2024-11-14 05:23:07,706 - INFO - 127.0.0.1 - - [14/Nov/2024 05:23:07] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 05:23:12,269 - INFO - Chatbot action: close
+2024-11-14 05:23:12,270 - INFO - 127.0.0.1 - - [14/Nov/2024 05:23:12] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 05:23:45,068 - INFO - Chatbot action: open
+2024-11-14 05:23:45,068 - INFO - 127.0.0.1 - - [14/Nov/2024 05:23:45] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 13:46:32,458 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-14 13:46:32,458 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-14 13:46:32,460 - INFO -  * Restarting with stat
+2024-11-14 13:46:32,708 - WARNING -  * Debugger is active!
+2024-11-14 13:46:32,713 - INFO -  * Debugger PIN: 468-520-063
+2024-11-14 13:46:48,058 - INFO - Chatbot action: close
+2024-11-14 13:46:48,064 - INFO - 127.0.0.1 - - [14/Nov/2024 13:46:48] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 13:47:49,350 - INFO - Chatbot action: open
+2024-11-14 13:47:49,350 - INFO - 127.0.0.1 - - [14/Nov/2024 13:47:49] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 13:47:54,336 - INFO - Chatbot action: close
+2024-11-14 13:47:54,336 - INFO - 127.0.0.1 - - [14/Nov/2024 13:47:54] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 13:47:57,891 - INFO - Chatbot action: open
+2024-11-14 13:47:57,892 - INFO - 127.0.0.1 - - [14/Nov/2024 13:47:57] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 14:12:03,083 - INFO - Chatbot action: close
+2024-11-14 14:12:03,085 - INFO - 127.0.0.1 - - [14/Nov/2024 14:12:03] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 14:12:04,593 - INFO - Chatbot action: open
+2024-11-14 14:12:04,594 - INFO - 127.0.0.1 - - [14/Nov/2024 14:12:04] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 14:12:04,928 - INFO - Chatbot action: close
+2024-11-14 14:12:04,929 - INFO - 127.0.0.1 - - [14/Nov/2024 14:12:04] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 14:12:05,112 - INFO - Chatbot action: open
+2024-11-14 14:12:05,113 - INFO - 127.0.0.1 - - [14/Nov/2024 14:12:05] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 14:12:05,331 - INFO - Chatbot action: close
+2024-11-14 14:12:05,331 - INFO - 127.0.0.1 - - [14/Nov/2024 14:12:05] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 14:37:41,084 - INFO -  * Detected change in 'D:\\chatbot\\log_request.py', reloading
+2024-11-14 14:37:41,317 - INFO -  * Detected change in 'D:\\chatbot\\log_request.py', reloading
+2024-11-14 14:37:41,329 - INFO -  * Restarting with stat
+2024-11-14 14:37:41,482 - INFO -  * Restarting with stat
+2024-11-14 14:37:41,757 - WARNING -  * Debugger is active!
+2024-11-14 14:37:41,762 - INFO -  * Debugger PIN: 468-520-063
+2024-11-14 14:37:58,836 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-14 14:37:58,837 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-14 14:37:58,838 - INFO -  * Restarting with stat
+2024-11-14 14:37:59,095 - WARNING -  * Debugger is active!
+2024-11-14 14:37:59,098 - INFO -  * Debugger PIN: 468-520-063
+2024-11-14 14:38:40,538 - INFO - 127.0.0.1 - - [14/Nov/2024 14:38:40] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-14 14:38:41,184 - INFO - 127.0.0.1 - - [14/Nov/2024 14:38:41] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-14 14:39:20,032 - INFO - Chatbot action: close
+2024-11-14 14:39:20,033 - INFO - 127.0.0.1 - - [14/Nov/2024 14:39:20] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 14:39:20,251 - INFO - Chatbot action: open
+2024-11-14 14:39:20,252 - INFO - 127.0.0.1 - - [14/Nov/2024 14:39:20] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 14:39:20,395 - INFO - Chatbot action: close
+2024-11-14 14:39:20,395 - INFO - 127.0.0.1 - - [14/Nov/2024 14:39:20] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 14:39:20,593 - INFO - Chatbot action: open
+2024-11-14 14:39:20,593 - INFO - 127.0.0.1 - - [14/Nov/2024 14:39:20] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-14 14:39:20,821 - INFO - Chatbot action: close
+2024-11-14 14:39:20,823 - INFO - 127.0.0.1 - - [14/Nov/2024 14:39:20] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-15 16:01:47,383 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 16:01:47,385 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-15 16:01:47,397 - INFO -  * Restarting with stat
+2024-11-15 16:01:48,002 - WARNING -  * Debugger is active!
+2024-11-15 16:01:48,009 - INFO -  * Debugger PIN: 468-520-063
+2024-11-15 16:01:57,267 - INFO - 127.0.0.1 - - [15/Nov/2024 16:01:57] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-15 16:01:57,955 - INFO - 127.0.0.1 - - [15/Nov/2024 16:01:57] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-15 16:01:58,831 - INFO - 127.0.0.1 - - [15/Nov/2024 16:01:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-15 16:06:20,748 - INFO -  * Detected change in 'D:\\chatbot\\web.py', reloading
+2024-11-15 16:06:20,798 - INFO -  * Restarting with stat
+2024-11-17 22:10:14,519 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-17 22:10:14,519 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-17 22:10:14,521 - INFO -  * Restarting with stat
+2024-11-17 22:10:14,757 - WARNING -  * Debugger is active!
+2024-11-17 22:10:14,761 - INFO -  * Debugger PIN: 468-520-063
+2024-11-17 22:11:02,860 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-17 22:11:02,860 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-17 22:11:02,861 - INFO -  * Restarting with stat
+2024-11-17 22:11:03,128 - WARNING -  * Debugger is active!
+2024-11-17 22:11:03,131 - INFO -  * Debugger PIN: 468-520-063
+2024-11-17 22:11:59,870 - INFO - 127.0.0.1 - - [17/Nov/2024 22:11:59] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-17 22:12:00,547 - INFO - 127.0.0.1 - - [17/Nov/2024 22:12:00] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-17 22:12:01,383 - INFO - 127.0.0.1 - - [17/Nov/2024 22:12:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-17 22:12:58,584 - INFO -  * Detected change in 'D:\\chatbot\\web.py', reloading
+2024-11-17 22:12:58,618 - INFO -  * Restarting with stat
+2024-11-17 22:12:58,857 - WARNING -  * Debugger is active!
+2024-11-17 22:12:58,861 - INFO -  * Debugger PIN: 468-520-063
+2024-11-17 22:12:59,314 - INFO -  * Detected change in 'D:\\chatbot\\web.py', reloading
+2024-11-17 22:12:59,343 - INFO -  * Restarting with stat
+2024-11-17 22:12:59,577 - WARNING -  * Debugger is active!
+2024-11-17 22:12:59,581 - INFO -  * Debugger PIN: 468-520-063
+2024-11-17 22:12:59,872 - INFO -  * Detected change in 'D:\\chatbot\\web.py', reloading
+2024-11-17 22:12:59,899 - INFO -  * Restarting with stat
+2024-11-17 22:13:00,138 - WARNING -  * Debugger is active!
+2024-11-17 22:13:00,142 - INFO -  * Debugger PIN: 468-520-063
+2024-11-17 22:13:21,341 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-17 22:13:21,342 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-17 22:13:21,344 - INFO -  * Restarting with stat
+2024-11-17 22:13:21,589 - WARNING -  * Debugger is active!
+2024-11-17 22:13:21,592 - INFO -  * Debugger PIN: 468-520-063
+2024-11-17 22:14:41,960 - INFO -  * Detected change in 'D:\\chatbot\\log_config.py', reloading
+2024-11-17 22:14:42,007 - INFO -  * Restarting with stat
+2024-11-17 22:14:42,008 - INFO -  * Detected change in 'D:\\chatbot\\log_config.py', reloading
+2024-11-17 22:14:42,084 - INFO -  * Restarting with stat
+2024-11-17 22:14:42,672 - WARNING -  * Debugger is active!
+2024-11-17 22:14:42,681 - INFO -  * Debugger PIN: 468-520-063
+2024-11-17 22:14:42,742 - WARNING -  * Debugger is active!
+2024-11-17 22:14:42,752 - INFO -  * Debugger PIN: 468-520-063
+2024-11-17 22:17:31,914 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-17 22:17:31,914 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-17 22:17:31,915 - INFO -  * Restarting with stat
+2024-11-17 22:17:32,147 - WARNING -  * Debugger is active!
+2024-11-17 22:17:32,150 - INFO -  * Debugger PIN: 468-520-063
+2024-11-17 22:18:12,667 - INFO - 127.0.0.1 - - [17/Nov/2024 22:18:12] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-17 22:20:06,834 - INFO -  * Detected change in 'D:\\chatbot\\web.py', reloading
+2024-11-17 22:20:06,943 - INFO -  * Restarting with stat
+2024-11-17 22:20:07,394 - INFO -  * Detected change in 'D:\\chatbot\\web.py', reloading
+2024-11-17 22:20:07,461 - INFO -  * Restarting with stat
+2024-11-17 22:20:07,474 - WARNING -  * Debugger is active!
+2024-11-17 22:20:07,484 - INFO -  * Debugger PIN: 468-520-063
+2024-11-17 22:20:08,059 - WARNING -  * Debugger is active!
+2024-11-17 22:20:08,068 - INFO -  * Debugger PIN: 468-520-063
+2024-11-17 22:20:21,391 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-17 22:20:21,392 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-17 22:20:21,393 - INFO -  * Restarting with stat
+2024-11-17 22:20:21,659 - WARNING -  * Debugger is active!
+2024-11-17 22:20:21,663 - INFO -  * Debugger PIN: 468-520-063
+2024-11-17 22:21:29,562 - INFO - 127.0.0.1 - - [17/Nov/2024 22:21:29] "[31m[1mGET /toggle-chat HTTP/1.1[0m" 405 -
+2024-11-17 22:28:02,937 - INFO -  * Detected change in 'D:\\chatbot\\log_config.py', reloading
+2024-11-17 22:28:03,016 - INFO -  * Restarting with stat
+2024-11-17 22:28:03,357 - WARNING -  * Debugger is active!
+2024-11-17 22:28:03,361 - INFO -  * Debugger PIN: 468-520-063
+2024-11-17 22:28:03,412 - INFO -  * Detected change in 'D:\\chatbot\\log_config.py', reloading
+2024-11-17 22:28:03,449 - INFO -  * Restarting with stat
+2024-11-17 22:28:03,938 - WARNING -  * Debugger is active!
+2024-11-17 22:28:03,947 - INFO -  * Debugger PIN: 468-520-063
+2024-11-17 22:28:19,061 - INFO -  * Detected change in 'D:\\chatbot\\performance.py', reloading
+2024-11-17 22:28:19,196 - INFO -  * Restarting with stat
+2024-11-17 22:28:19,455 - INFO -  * Detected change in 'D:\\chatbot\\performance.py', reloading
+2024-11-17 22:28:19,528 - INFO -  * Restarting with stat
+2024-11-17 22:28:19,613 - WARNING -  * Debugger is active!
+2024-11-17 22:28:19,620 - INFO -  * Debugger PIN: 468-520-063
+2024-11-17 22:28:19,877 - WARNING -  * Debugger is active!
+2024-11-17 22:28:19,883 - INFO -  * Debugger PIN: 468-520-063
+2024-11-17 22:28:58,137 - INFO -  * Detected change in 'D:\\chatbot\\security.py', reloading
+2024-11-17 22:28:58,223 - INFO -  * Restarting with stat
+2024-11-17 22:28:58,704 - WARNING -  * Debugger is active!
+2024-11-17 22:28:58,710 - INFO -  * Debugger PIN: 468-520-063
+2024-11-17 22:28:58,823 - INFO -  * Detected change in 'D:\\chatbot\\security.py', reloading
+2024-11-17 22:28:58,879 - INFO -  * Restarting with stat
+2024-11-17 22:28:59,475 - WARNING -  * Debugger is active!
+2024-11-17 22:28:59,480 - INFO -  * Debugger PIN: 468-520-063
+2024-11-17 22:29:29,665 - INFO -  * Detected change in 'D:\\chatbot\\web.py', reloading
+2024-11-17 22:29:29,692 - INFO -  * Restarting with stat
+2024-11-17 22:29:29,941 - INFO -  * Detected change in 'D:\\chatbot\\web.py', reloading
+2024-11-17 22:29:29,962 - WARNING -  * Debugger is active!
+2024-11-17 22:29:29,966 - INFO -  * Debugger PIN: 468-520-063
+2024-11-17 22:29:29,978 - INFO -  * Restarting with stat
+2024-11-17 22:29:30,212 - WARNING -  * Debugger is active!
+2024-11-17 22:29:30,216 - INFO -  * Debugger PIN: 468-520-063
+2024-11-17 22:29:58,127 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-17 22:29:58,127 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-17 22:29:58,127 - INFO -  * Restarting with stat
+2024-11-17 22:29:58,369 - WARNING -  * Debugger is active!
+2024-11-17 22:29:58,373 - INFO -  * Debugger PIN: 468-520-063
+2024-11-17 22:30:36,998 - INFO - 127.0.0.1 - - [17/Nov/2024 22:30:36] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-17 22:30:38,899 - INFO - 127.0.0.1 - - [17/Nov/2024 22:30:38] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-17 22:31:08,629 - INFO - 127.0.0.1 - - [17/Nov/2024 22:31:08] "[31m[1mGET /api HTTP/1.1[0m" 405 -
+2024-11-17 22:32:05,682 - INFO - 127.0.0.1 - - [17/Nov/2024 22:32:05] "[31m[1mPOST /api HTTP/1.1[0m" 400 -
+2024-11-17 22:50:44,006 - INFO -  * Detected change in 'D:\\chatbot\\log_config.py', reloading
+2024-11-17 22:50:44,046 - INFO -  * Restarting with stat
+2024-11-17 22:50:44,358 - WARNING -  * Debugger is active!
+2024-11-17 22:50:44,361 - INFO -  * Debugger PIN: 468-520-063
+2024-11-17 22:51:19,441 - INFO -  * Detected change in 'D:\\chatbot\\web.py', reloading
+2024-11-17 22:51:19,469 - INFO -  * Restarting with stat
+2024-11-17 22:51:19,722 - WARNING -  * Debugger is active!
+2024-11-17 22:51:19,726 - INFO -  * Debugger PIN: 468-520-063
+2024-11-17 22:51:37,757 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-17 22:51:37,757 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-17 22:51:37,758 - INFO -  * Restarting with stat
+2024-11-17 22:51:38,006 - WARNING -  * Debugger is active!
+2024-11-17 22:51:38,010 - INFO -  * Debugger PIN: 468-520-063
+2024-11-17 22:52:46,116 - INFO - 127.0.0.1 - - [17/Nov/2024 22:52:46] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-17 22:52:47,011 - INFO - 127.0.0.1 - - [17/Nov/2024 22:52:47] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-18 00:48:56,453 - INFO -  * Detected change in 'D:\\chatbot\\web.py', reloading
+2024-11-18 00:48:56,599 - INFO -  * Restarting with stat
+2024-11-18 00:48:56,797 - INFO -  * Detected change in 'D:\\chatbot\\web.py', reloading
+2024-11-18 00:48:56,937 - INFO -  * Restarting with stat
+2024-11-18 00:48:57,008 - WARNING -  * Debugger is active!
+2024-11-18 00:48:57,013 - INFO -  * Debugger PIN: 468-520-063
+2024-11-18 00:48:57,304 - WARNING -  * Debugger is active!
+2024-11-18 00:48:57,313 - INFO -  * Debugger PIN: 468-520-063
+2024-11-18 00:49:20,180 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-18 00:49:20,180 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-18 00:49:20,181 - INFO -  * Restarting with stat
+2024-11-18 00:49:20,476 - WARNING -  * Debugger is active!
+2024-11-18 00:49:20,480 - INFO -  * Debugger PIN: 468-520-063
+2024-11-18 01:02:08,356 - INFO -  * Detected change in 'D:\\chatbot\\web.py', reloading
+2024-11-18 01:02:08,390 - INFO -  * Detected change in 'D:\\chatbot\\web.py', reloading
+2024-11-18 01:02:08,440 - INFO -  * Restarting with stat
+2024-11-18 01:02:08,501 - INFO -  * Restarting with stat
+2024-11-21 10:08:09,887 - WARNING -  * Debugger is active!
+2024-11-21 10:08:09,897 - INFO -  * Debugger PIN: 468-520-063
+2024-11-21 10:09:15,820 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-21 10:09:15,822 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-21 10:09:15,825 - INFO -  * Restarting with stat
+2024-11-21 10:09:16,674 - WARNING -  * Debugger is active!
+2024-11-21 10:09:16,689 - INFO -  * Debugger PIN: 468-520-063
+2024-11-21 10:09:25,180 - INFO - Chatbot action: Unknown
+2024-11-21 10:09:25,183 - INFO - 127.0.0.1 - - [21/Nov/2024 10:09:25] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:09:25,452 - INFO - Chatbot action: Unknown
+2024-11-21 10:09:25,453 - INFO - 127.0.0.1 - - [21/Nov/2024 10:09:25] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:09:25,461 - INFO - 127.0.0.1 - - [21/Nov/2024 10:09:25] "[33mPOST /log-performance HTTP/1.1[0m" 404 -
+2024-11-21 10:09:25,757 - INFO - Chatbot action: Unknown
+2024-11-21 10:09:25,758 - INFO - 127.0.0.1 - - [21/Nov/2024 10:09:25] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:09:25,915 - INFO - Chatbot action: Unknown
+2024-11-21 10:09:25,918 - INFO - 127.0.0.1 - - [21/Nov/2024 10:09:25] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:09:25,945 - INFO - 127.0.0.1 - - [21/Nov/2024 10:09:25] "[33mPOST /log-performance HTTP/1.1[0m" 404 -
+2024-11-21 10:09:26,090 - INFO - Chatbot action: Unknown
+2024-11-21 10:09:26,092 - INFO - 127.0.0.1 - - [21/Nov/2024 10:09:26] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:09:26,261 - INFO - Chatbot action: Unknown
+2024-11-21 10:09:26,263 - INFO - 127.0.0.1 - - [21/Nov/2024 10:09:26] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:09:26,265 - INFO - 127.0.0.1 - - [21/Nov/2024 10:09:26] "[33mPOST /log-performance HTTP/1.1[0m" 404 -
+2024-11-21 10:09:26,434 - INFO - Chatbot action: Unknown
+2024-11-21 10:09:26,436 - INFO - 127.0.0.1 - - [21/Nov/2024 10:09:26] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:09:26,604 - INFO - Chatbot action: Unknown
+2024-11-21 10:09:26,605 - INFO - 127.0.0.1 - - [21/Nov/2024 10:09:26] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:09:26,607 - INFO - 127.0.0.1 - - [21/Nov/2024 10:09:26] "[33mPOST /log-performance HTTP/1.1[0m" 404 -
+2024-11-21 10:09:26,788 - INFO - Chatbot action: Unknown
+2024-11-21 10:09:26,815 - INFO - 127.0.0.1 - - [21/Nov/2024 10:09:26] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:09:26,942 - INFO - Chatbot action: Unknown
+2024-11-21 10:09:26,944 - INFO - 127.0.0.1 - - [21/Nov/2024 10:09:26] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:09:26,947 - INFO - 127.0.0.1 - - [21/Nov/2024 10:09:26] "[33mPOST /log-performance HTTP/1.1[0m" 404 -
+2024-11-21 10:09:27,208 - INFO - Chatbot action: Unknown
+2024-11-21 10:09:27,273 - INFO - 127.0.0.1 - - [21/Nov/2024 10:09:27] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:09:27,326 - INFO - Chatbot action: Unknown
+2024-11-21 10:09:27,328 - INFO - 127.0.0.1 - - [21/Nov/2024 10:09:27] "[33mPOST /log-performance HTTP/1.1[0m" 404 -
+2024-11-21 10:09:27,329 - INFO - 127.0.0.1 - - [21/Nov/2024 10:09:27] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:09:27,608 - INFO - Chatbot action: Unknown
+2024-11-21 10:09:27,609 - INFO - 127.0.0.1 - - [21/Nov/2024 10:09:27] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:09:28,545 - INFO - Chatbot action: Unknown
+2024-11-21 10:09:28,546 - INFO - 127.0.0.1 - - [21/Nov/2024 10:09:28] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:09:28,551 - INFO - 127.0.0.1 - - [21/Nov/2024 10:09:28] "[33mPOST /log-performance HTTP/1.1[0m" 404 -
+2024-11-21 10:14:13,767 - INFO - Chatbot action: Unknown
+2024-11-21 10:14:13,770 - INFO - 127.0.0.1 - - [21/Nov/2024 10:14:13] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:14:14,047 - INFO - Chatbot action: Unknown
+2024-11-21 10:14:14,049 - INFO - 127.0.0.1 - - [21/Nov/2024 10:14:14] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:14:14,051 - INFO - 127.0.0.1 - - [21/Nov/2024 10:14:14] "[33mPOST /log-performance HTTP/1.1[0m" 404 -
+2024-11-21 10:14:14,250 - INFO - Chatbot action: Unknown
+2024-11-21 10:14:14,318 - INFO - 127.0.0.1 - - [21/Nov/2024 10:14:14] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:14:14,390 - INFO - 127.0.0.1 - - [21/Nov/2024 10:14:14] "[33mPOST /log-performance HTTP/1.1[0m" 404 -
+2024-11-21 10:14:14,419 - INFO - Chatbot action: Unknown
+2024-11-21 10:14:14,432 - INFO - 127.0.0.1 - - [21/Nov/2024 10:14:14] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:14:14,693 - INFO - Chatbot action: Unknown
+2024-11-21 10:14:14,695 - INFO - 127.0.0.1 - - [21/Nov/2024 10:14:14] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:14:14,861 - INFO - Chatbot action: Unknown
+2024-11-21 10:14:14,862 - INFO - 127.0.0.1 - - [21/Nov/2024 10:14:14] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:14:14,865 - INFO - 127.0.0.1 - - [21/Nov/2024 10:14:14] "[33mPOST /log-performance HTTP/1.1[0m" 404 -
+2024-11-21 10:15:43,764 - INFO -  * Detected change in 'D:\\chatbot\\log_request.py', reloading
+2024-11-21 10:15:43,962 - INFO -  * Restarting with stat
+2024-11-21 10:15:44,800 - WARNING -  * Debugger is active!
+2024-11-21 10:15:44,820 - INFO -  * Debugger PIN: 468-520-063
+2024-11-21 10:15:58,723 - INFO - Chatbot action: Unknown
+2024-11-21 10:15:58,725 - INFO - 127.0.0.1 - - [21/Nov/2024 10:15:58] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:15:58,899 - INFO - Chatbot action: Unknown
+2024-11-21 10:15:58,901 - INFO - 127.0.0.1 - - [21/Nov/2024 10:15:58] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:15:58,906 - INFO - 127.0.0.1 - - [21/Nov/2024 10:15:58] "[33mPOST /log-performance HTTP/1.1[0m" 404 -
+2024-11-21 10:15:59,244 - INFO - Chatbot action: Unknown
+2024-11-21 10:15:59,246 - INFO - 127.0.0.1 - - [21/Nov/2024 10:15:59] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:15:59,329 - INFO - Chatbot action: Unknown
+2024-11-21 10:15:59,330 - INFO - 127.0.0.1 - - [21/Nov/2024 10:15:59] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:15:59,344 - INFO - 127.0.0.1 - - [21/Nov/2024 10:15:59] "[33mPOST /log-performance HTTP/1.1[0m" 404 -
+2024-11-21 10:15:59,469 - INFO - Chatbot action: Unknown
+2024-11-21 10:15:59,470 - INFO - 127.0.0.1 - - [21/Nov/2024 10:15:59] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:15:59,809 - INFO - Chatbot action: Unknown
+2024-11-21 10:15:59,829 - INFO - 127.0.0.1 - - [21/Nov/2024 10:15:59] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:15:59,835 - INFO - 127.0.0.1 - - [21/Nov/2024 10:15:59] "[33mPOST /log-performance HTTP/1.1[0m" 404 -
+2024-11-21 10:17:08,036 - INFO -  * Detected change in 'D:\\chatbot\\log_action.py', reloading
+2024-11-21 10:17:08,096 - INFO -  * Restarting with stat
+2024-11-21 10:18:05,933 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-21 10:18:05,934 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-21 10:18:05,938 - INFO -  * Restarting with stat
+2024-11-21 10:18:06,517 - WARNING -  * Debugger is active!
+2024-11-21 10:18:06,527 - INFO -  * Debugger PIN: 468-520-063
+2024-11-21 10:18:21,869 - INFO - Chatbot action: open
+2024-11-21 10:18:21,870 - INFO - 127.0.0.1 - - [21/Nov/2024 10:18:21] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:18:22,102 - INFO - Chatbot action: close
+2024-11-21 10:18:22,104 - INFO - 127.0.0.1 - - [21/Nov/2024 10:18:22] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:18:22,105 - INFO - Chatbot performance time: 238.9000000357628 ms
+2024-11-21 10:18:22,106 - INFO - 127.0.0.1 - - [21/Nov/2024 10:18:22] "POST /log-performance HTTP/1.1" 200 -
+2024-11-21 10:18:22,277 - INFO - Chatbot action: open
+2024-11-21 10:18:22,278 - INFO - 127.0.0.1 - - [21/Nov/2024 10:18:22] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:18:22,435 - INFO - Chatbot action: close
+2024-11-21 10:18:22,436 - INFO - 127.0.0.1 - - [21/Nov/2024 10:18:22] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:18:22,438 - INFO - Chatbot performance time: 157 ms
+2024-11-21 10:18:22,439 - INFO - 127.0.0.1 - - [21/Nov/2024 10:18:22] "POST /log-performance HTTP/1.1" 200 -
+2024-11-21 10:18:22,605 - INFO - Chatbot action: open
+2024-11-21 10:18:22,606 - INFO - 127.0.0.1 - - [21/Nov/2024 10:18:22] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:18:22,755 - INFO - Chatbot action: close
+2024-11-21 10:18:22,756 - INFO - 127.0.0.1 - - [21/Nov/2024 10:18:22] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:18:22,757 - INFO - Chatbot performance time: 150.60000002384186 ms
+2024-11-21 10:18:22,759 - INFO - 127.0.0.1 - - [21/Nov/2024 10:18:22] "POST /log-performance HTTP/1.1" 200 -
+2024-11-21 10:18:22,987 - INFO - Chatbot action: open
+2024-11-21 10:18:22,988 - INFO - 127.0.0.1 - - [21/Nov/2024 10:18:22] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:27:29,579 - INFO - Chatbot action: close
+2024-11-21 10:27:29,580 - INFO - 127.0.0.1 - - [21/Nov/2024 10:27:29] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:27:29,582 - INFO - Chatbot performance time: 546591 ms
+2024-11-21 10:27:29,584 - INFO - 127.0.0.1 - - [21/Nov/2024 10:27:29] "POST /log-performance HTTP/1.1" 200 -
+2024-11-21 10:27:31,512 - INFO - Chatbot action: open
+2024-11-21 10:27:31,513 - INFO - 127.0.0.1 - - [21/Nov/2024 10:27:31] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:27:31,852 - INFO - Chatbot action: close
+2024-11-21 10:27:31,853 - INFO - 127.0.0.1 - - [21/Nov/2024 10:27:31] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:27:31,854 - INFO - Chatbot performance time: 340.89999997615814 ms
+2024-11-21 10:27:31,855 - INFO - 127.0.0.1 - - [21/Nov/2024 10:27:31] "POST /log-performance HTTP/1.1" 200 -
+2024-11-21 10:27:32,395 - INFO - Chatbot action: open
+2024-11-21 10:27:32,396 - INFO - 127.0.0.1 - - [21/Nov/2024 10:27:32] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:27:32,676 - INFO - Chatbot action: close
+2024-11-21 10:27:32,677 - INFO - 127.0.0.1 - - [21/Nov/2024 10:27:32] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 10:27:32,678 - INFO - Chatbot performance time: 280.80000001192093 ms
+2024-11-21 10:27:32,679 - INFO - 127.0.0.1 - - [21/Nov/2024 10:27:32] "POST /log-performance HTTP/1.1" 200 -
+2024-11-21 10:27:32,908 - INFO - Chatbot action: open
+2024-11-21 10:27:32,909 - INFO - 127.0.0.1 - - [21/Nov/2024 10:27:32] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 15:07:28,783 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-21 15:07:28,784 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-21 15:07:28,787 - INFO -  * Restarting with stat
+2024-11-21 15:07:29,459 - WARNING -  * Debugger is active!
+2024-11-21 15:07:29,471 - INFO -  * Debugger PIN: 468-520-063
+2024-11-21 15:08:01,466 - INFO - Chatbot action: close
+2024-11-21 15:08:01,467 - INFO - 127.0.0.1 - - [21/Nov/2024 15:08:01] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 15:08:01,468 - INFO - Chatbot performance time: 16828572 ms
+2024-11-21 15:08:01,469 - INFO - 127.0.0.1 - - [21/Nov/2024 15:08:01] "POST /log-performance HTTP/1.1" 200 -
+2024-11-21 15:08:03,648 - INFO - Chatbot action: open
+2024-11-21 15:08:03,649 - INFO - 127.0.0.1 - - [21/Nov/2024 15:08:03] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 15:09:11,871 - INFO - Chatbot action: close
+2024-11-21 15:09:11,873 - INFO - 127.0.0.1 - - [21/Nov/2024 15:09:11] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 15:09:11,880 - INFO - Chatbot performance time: 68151.19999998808 ms
+2024-11-21 15:09:11,893 - INFO - 127.0.0.1 - - [21/Nov/2024 15:09:11] "POST /log-performance HTTP/1.1" 200 -
+2024-11-21 15:09:12,314 - INFO - Chatbot action: open
+2024-11-21 15:09:12,315 - INFO - 127.0.0.1 - - [21/Nov/2024 15:09:12] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 15:40:44,407 - INFO - Chatbot action: close
+2024-11-21 15:40:44,408 - INFO - Chatbot performance time: 1892072.9000000358 ms
+2024-11-21 15:40:44,412 - INFO - 127.0.0.1 - - [21/Nov/2024 15:40:44] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 15:40:44,413 - INFO - 127.0.0.1 - - [21/Nov/2024 15:40:44] "POST /log-performance HTTP/1.1" 200 -
+2024-11-21 15:40:44,830 - INFO - Chatbot action: open
+2024-11-21 15:40:44,831 - INFO - 127.0.0.1 - - [21/Nov/2024 15:40:44] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 15:40:45,080 - INFO - Chatbot action: close
+2024-11-21 15:40:45,081 - INFO - Chatbot performance time: 248.5999999642372 ms
+2024-11-21 15:40:45,082 - INFO - 127.0.0.1 - - [21/Nov/2024 15:40:45] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 15:40:45,083 - INFO - 127.0.0.1 - - [21/Nov/2024 15:40:45] "POST /log-performance HTTP/1.1" 200 -
+2024-11-21 15:40:45,314 - INFO - Chatbot action: open
+2024-11-21 15:40:45,315 - INFO - 127.0.0.1 - - [21/Nov/2024 15:40:45] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 18:06:34,210 - INFO - Chatbot action: close
+2024-11-21 18:06:34,220 - INFO - 127.0.0.1 - - [21/Nov/2024 18:06:34] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 18:06:34,230 - INFO - Chatbot performance time: 8748858.599999964 ms
+2024-11-21 18:06:34,232 - INFO - 127.0.0.1 - - [21/Nov/2024 18:06:34] "POST /log-performance HTTP/1.1" 200 -
+2024-11-21 18:06:36,677 - INFO - Chatbot action: open
+2024-11-21 18:06:36,678 - INFO - 127.0.0.1 - - [21/Nov/2024 18:06:36] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 18:06:37,565 - INFO - Chatbot action: close
+2024-11-21 18:06:37,567 - INFO - 127.0.0.1 - - [21/Nov/2024 18:06:37] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 18:06:37,583 - INFO - Chatbot performance time: 885.3999999761581 ms
+2024-11-21 18:06:37,588 - INFO - 127.0.0.1 - - [21/Nov/2024 18:06:37] "POST /log-performance HTTP/1.1" 200 -
+2024-11-21 18:06:38,636 - INFO - Chatbot action: open
+2024-11-21 18:06:38,637 - INFO - 127.0.0.1 - - [21/Nov/2024 18:06:38] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 18:06:38,791 - INFO - Chatbot action: close
+2024-11-21 18:06:38,792 - INFO - 127.0.0.1 - - [21/Nov/2024 18:06:38] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 18:06:38,793 - INFO - Chatbot performance time: 156.39999997615814 ms
+2024-11-21 18:06:38,794 - INFO - 127.0.0.1 - - [21/Nov/2024 18:06:38] "POST /log-performance HTTP/1.1" 200 -
+2024-11-21 18:06:39,050 - INFO - Chatbot action: open
+2024-11-21 18:06:39,051 - INFO - 127.0.0.1 - - [21/Nov/2024 18:06:39] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 18:59:19,683 - INFO - Chatbot action: open
+2024-11-21 18:59:19,702 - INFO - 127.0.0.1 - - [21/Nov/2024 18:59:19] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 20:18:30,582 - INFO - Chatbot action: close
+2024-11-21 20:18:30,584 - INFO - Chatbot performance time: 4750898.799999952 ms
+2024-11-21 20:18:30,587 - INFO - 127.0.0.1 - - [21/Nov/2024 20:18:30] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 20:18:30,592 - INFO - 127.0.0.1 - - [21/Nov/2024 20:18:30] "POST /log-performance HTTP/1.1" 200 -
+2024-11-21 20:32:35,988 - INFO - Chatbot action: open
+2024-11-21 20:32:35,989 - INFO - 127.0.0.1 - - [21/Nov/2024 20:32:35] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 20:32:36,570 - INFO - Chatbot action: close
+2024-11-21 20:32:36,571 - INFO - 127.0.0.1 - - [21/Nov/2024 20:32:36] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 20:32:36,575 - INFO - Chatbot performance time: 584.4000000357628 ms
+2024-11-21 20:32:36,577 - INFO - 127.0.0.1 - - [21/Nov/2024 20:32:36] "POST /log-performance HTTP/1.1" 200 -
+2024-11-21 20:32:37,212 - INFO - Chatbot action: open
+2024-11-21 20:32:37,212 - INFO - 127.0.0.1 - - [21/Nov/2024 20:32:37] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 20:32:37,857 - INFO - Chatbot action: close
+2024-11-21 20:32:37,857 - INFO - 127.0.0.1 - - [21/Nov/2024 20:32:37] "POST /toggle-chat HTTP/1.1" 200 -
+2024-11-21 20:32:37,858 - INFO - Chatbot performance time: 646.6000000238419 ms
+2024-11-21 20:32:37,859 - INFO - 127.0.0.1 - - [21/Nov/2024 20:32:37] "POST /log-performance HTTP/1.1" 200 -
